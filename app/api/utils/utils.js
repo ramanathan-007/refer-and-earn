@@ -6,4 +6,4 @@ const generateResponse = (res, code, msg) => {
     })
 }
 
-module.exports = generateReponse;
+module.exports = generateResponse;
